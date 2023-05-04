@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+select {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#result {
+  font-weight: bold;
+}
